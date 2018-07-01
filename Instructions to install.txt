@@ -1,0 +1,6 @@
+Instructions to install:
+From this folder, open a file called ”Dalfay(IBO) Income Calculator”
+To run the application, it will ask you to extract all files, so just click “Extract all”
+It automatically creates another folder (at your chosen location)
+Just open that folder, run the same file called “Dalfay(IBO) Income Calculator” again. 
+Allow your antivirus to scan (if you have any), and you are done!
